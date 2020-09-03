@@ -1,0 +1,25 @@
+form {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+svg {
+  font: 10px sans-serif;
+}
+
+#baum_info_div {
+    display: inline-block;
+    position: absolute;
+    height: 50px;
+    width: 400px;
+    top: 425px;
+    left: 300px;
+    text-align: center;
+}
+
+#baum_info_name {
+    font-size: 3em;
+}
+
+#baum_info_percent {
+    font-size: 1.6em;
+}
